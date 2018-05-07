@@ -10,7 +10,7 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: Unity Technologies
+  companyName: SamBajis
   productName: AR Treasure Hunt
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
@@ -137,10 +137,10 @@ PlayerSettings:
   protectGraphicsMemory: 0
   useHDRDisplay: 0
   applicationIdentifier:
-    Android: com.Company.ProductName
-    Standalone: unity.Unity Technologies.Native Rendering Plugin Example
+    Android: com.SamBajis.HuntEm!
+    Standalone: com.SamBajis.HuntEm!
     Tizen: com.Company.ProductName
-    iOS: com.SamBajis.HuntEm
+    iOS: com.SamBajis.HuntEm!
     tvOS: com.Company.ProductName
   buildNumber:
     iOS: 0
