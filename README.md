@@ -10,7 +10,7 @@
 ### Prerequisites
 The software you will need to download in order to build and run the game on a mobile device:
 <br />
-<br /> • The cross-platform engine [Unity](https://unity3d.com/unity/qa/patch-releases/2017.1.0p4 "Unity 3D download") Version 5.6.2p1.
+<br /> • The cross-platform engine [Unity](https://unity3d.com/unity/qa/patch-releases?version=5.6&page=2 "Unity 3D download") Version 5.6.2p1.
 <br />
 - Only iOS builds! Will need an iOS device, along with the latest version of [Xcode](https://developer.apple.com/download/ "Xcode 9.3 Beta").
 - NOTE! You will need to have an [Apple ID](https://appleid.apple.com/account#!&page=create "Developer Account") in order to download Xcode and build for iOS.
